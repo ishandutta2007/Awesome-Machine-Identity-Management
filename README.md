@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Machine-Identity-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Identity-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Machine-Identity-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Identity-Management?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Machine-Identity-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Machine-Identity-Management?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Machine-Identity-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Machine-Identity-Management?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -55,51 +55,51 @@
 
 ## 💻 Open-Source GitHub Projects
 
-*High-impact open-source tools for building custom, transparent, and resilient Machine Identity Infrastructure. Sorted by **GitHub Star Count (Descending)**.*
+*High-impact open-source tools for building custom, transparent, and resilient Machine Identity Infrastructure. Sorted by **GitHub Stars_Count (Descending)**.*
 
-- **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
+- **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers)  
   *36,200+ ⭐* — Open-source secrets management and PKI engine for dynamic X.509 certificate issuance, lease-based credentials, and cryptographic key protection.
 
-- **[Certbot](https://github.com/certbot/certbot)** [![GitHub stars](https://img.shields.io/github/stars/certbot/certbot?style=social&color=white)](https://github.com/certbot/certbot/stargazers)  
+- **[Certbot](https://github.com/certbot/certbot)** [![GitHub_Stars](https://img.shields.io/github/stars/certbot/certbot?style=social&color=white)](https://github.com/certbot/certbot/stargazers)  
   *33,200+ ⭐* — The EFF's automated ACME client for issuing and renewing Let's Encrypt TLS certificates across web servers and cloud services.
 
-- **[Teleport Community Edition](https://github.com/gravitational/teleport)** [![GitHub stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)  
+- **[Teleport Community Edition](https://github.com/gravitational/teleport)** [![GitHub_Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)  
   *20,900+ ⭐* — Identity-aware access proxy and certificate authority for machine SSH, Kubernetes nodes, databases, and internal web applications.
 
-- **[cert-manager](https://github.com/cert-manager/cert-manager)** [![GitHub stars](https://img.shields.io/github/stars/cert-manager/cert-manager?style=social&color=white)](https://github.com/cert-manager/cert-manager/stargazers)  
+- **[cert-manager](https://github.com/cert-manager/cert-manager)** [![GitHub_Stars](https://img.shields.io/github/stars/cert-manager/cert-manager?style=social&color=white)](https://github.com/cert-manager/cert-manager/stargazers)  
   *14,000+ ⭐* — Cloud-native Kubernetes certificate management controller automating TLS issuance from Let's Encrypt, step-ca, Vault, and Venafi.
 
-- **[lego](https://github.com/go-acme/lego)** [![GitHub stars](https://img.shields.io/github/stars/go-acme/lego?style=social&color=white)](https://github.com/go-acme/lego/stargazers)  
+- **[lego](https://github.com/go-acme/lego)** [![GitHub_Stars](https://img.shields.io/github/stars/go-acme/lego?style=social&color=white)](https://github.com/go-acme/lego/stargazers)  
   *9,800+ ⭐* — Pure Go ACME client library and CLI supporting automated DNS-01 challenge integrations across 80+ DNS providers.
 
-- **[CFSSL (Cloudflare PKI Toolkit)](https://github.com/cloudflare/cfssl)** [![GitHub stars](https://img.shields.io/github/stars/cloudflare/cfssl?style=social&color=white)](https://github.com/cloudflare/cfssl/stargazers)  
+- **[CFSSL (Cloudflare PKI Toolkit)](https://github.com/cloudflare/cfssl)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudflare/cfssl?style=social&color=white)](https://github.com/cloudflare/cfssl/stargazers)  
   *9,400+ ⭐* — Cloudflare's open-source PKI toolkit and HTTP API server for certificate signing, verification, and TLS bundle creation.
 
-- **[step-ca (Smallstep Certificates)](https://github.com/smallstep/certificates)** [![GitHub stars](https://img.shields.io/github/stars/smallstep/certificates?style=social&color=white)](https://github.com/smallstep/certificates/stargazers)  
+- **[step-ca (Smallstep Certificates)](https://github.com/smallstep/certificates)** [![GitHub_Stars](https://img.shields.io/github/stars/smallstep/certificates?style=social&color=white)](https://github.com/smallstep/certificates/stargazers)  
   *8,800+ ⭐* — Modern, lightweight private Certificate Authority designed for automated certificate management (ACME, SSH, OIDC, SCEP, and OAuth2).
 
-- **[OpenBao](https://github.com/openbao/openbao)** [![GitHub stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
+- **[OpenBao](https://github.com/openbao/openbao)** [![GitHub_Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)  
   *7,400+ ⭐* — Community-driven open-source fork of HashiCorp Vault managed under the Linux Foundation for secrets and PKI governance.
 
-- **[External Secrets Operator](https://github.com/external-secrets/external-secrets)** [![GitHub stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
+- **[External Secrets Operator](https://github.com/external-secrets/external-secrets)** [![GitHub_Stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)  
   *6,800+ ⭐* — Kubernetes operator integrating external secret management systems (Vault, AWS Secrets Manager, GCP Secret Manager) with K8s secrets.
 
-- **[Boulder (Let's Encrypt CA)](https://github.com/letsencrypt/boulder)** [![GitHub stars](https://img.shields.io/github/stars/letsencrypt/boulder?style=social&color=white)](https://github.com/letsencrypt/boulder/stargazers)  
+- **[Boulder (Let's Encrypt CA)](https://github.com/letsencrypt/boulder)** [![GitHub_Stars](https://img.shields.io/github/stars/letsencrypt/boulder?style=social&color=white)](https://github.com/letsencrypt/boulder/stargazers)  
   *5,700+ ⭐* — The open-source ACME-based Certificate Authority software powering Let's Encrypt and private enterprise ACME infrastructure.
 
-- **[SPIRE (SPIFFE Runtime Environment)](https://github.com/spiffe/spire)** [![GitHub stars](https://img.shields.io/github/stars/spiffe/spire?style=social&color=white)](https://github.com/spiffe/spire/stargazers)  
+- **[SPIRE (SPIFFE Runtime Environment)](https://github.com/spiffe/spire)** [![GitHub_Stars](https://img.shields.io/github/stars/spiffe/spire?style=social&color=white)](https://github.com/spiffe/spire/stargazers)  
   *2,500+ ⭐* — CNCF-graduated production implementation of the SPIFFE standard for issuing short-lived SVIDs to heterogeneous workload identities.
 
-- **[Lemur (Netflix Certificate Manager)](https://github.com/Netflix/lemur)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/lemur?style=social&color=white)](https://github.com/Netflix/lemur/stargazers)  
+- **[Lemur (Netflix Certificate Manager)](https://github.com/Netflix/lemur)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/lemur?style=social&color=white)](https://github.com/Netflix/lemur/stargazers)  
   *1,700+ ⭐* — Netflix's open-source certificate management orchestration tool designed for tracking, creating, and rotating TLS/SSL certificates across multi-CA estates.
 
-- **[EJBCA Community Edition](https://github.com/Keyfactor/ejbca-ce)** [![GitHub stars](https://img.shields.io/github/stars/Keyfactor/ejbca-ce?style=social&color=white)](https://github.com/Keyfactor/ejbca-ce/stargazers)  
+- **[EJBCA Community Edition](https://github.com/Keyfactor/ejbca-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/Keyfactor/ejbca-ce?style=social&color=white)](https://github.com/Keyfactor/ejbca-ce/stargazers)  
   *940+ ⭐* — Enterprise-grade open-source PKI and Certificate Authority software supporting CRL, OCSP, CMP, EST, and hardware security modules (HSMs).
 
-- **[cert-exporter](https://github.com/joe-elliott/cert-exporter)** [![GitHub stars](https://img.shields.io/github/stars/joe-elliott/cert-exporter?style=social&color=white)](https://github.com/joe-elliott/cert-exporter/stargazers)  
+- **[cert-exporter](https://github.com/joe-elliott/cert-exporter)** [![GitHub_Stars](https://img.shields.io/github/stars/joe-elliott/cert-exporter?style=social&color=white)](https://github.com/joe-elliott/cert-exporter/stargazers)  
   *380+ ⭐* — Prometheus exporter for monitoring TLS certificate expiration across Kubernetes secrets, files, and local certificates.
 
-- **[cert-manager CSI Driver SPIFFE](https://github.com/cert-manager/csi-driver-spiffe)** [![GitHub stars](https://img.shields.io/github/stars/cert-manager/csi-driver-spiffe?style=social&color=white)](https://github.com/cert-manager/csi-driver-spiffe/stargazers)  
+- **[cert-manager CSI Driver SPIFFE](https://github.com/cert-manager/csi-driver-spiffe)** [![GitHub_Stars](https://img.shields.io/github/stars/cert-manager/csi-driver-spiffe?style=social&color=white)](https://github.com/cert-manager/csi-driver-spiffe/stargazers)  
   *80+ ⭐* — Kubernetes CSI driver mounting ephemeral SPIFFE-compliant X.509 SVID credentials directly into pod volumes.
 
 ---
@@ -110,7 +110,7 @@ Contributions are warmly welcome! To submit a new tool, SaaS platform, or open-s
 
 1. 🍴 Fork the repository.
 2. 📝 Add your entry under the appropriate section in `README.md`.
-3. 🔗 Maintain alphabetical or sorted ordering and include factual details (pricing, star badges, descriptions).
+3. 🔗 Maintain alphabetical or sorted ordering and include factual details (pricing, Stars_Badges, descriptions).
 4. 🚀 Open a Pull Request with a clear summary of changes.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
